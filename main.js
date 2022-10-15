@@ -8,8 +8,6 @@ export class App {
   async keys(keys) {
     await refreshClients();
     let client = clients[this.config.client];
-    return (await client.request("simulate", "keys", [keys])).result
-      ? "Success"
-      : "Error";
+    return (await client.request("simulate", "keys", [keys])).result;
   }
 }
