@@ -1,6 +1,6 @@
 {
   "methods": {
-    "notification": {
+    "keys": {
       "name": "Simulate Key Presses",
       "arguments": [
         {
