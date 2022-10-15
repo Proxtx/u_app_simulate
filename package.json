@@ -1,0 +1,20 @@
+{
+  "name": "u_app_simulate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proxtx/u_app_simulate.git"
+  },
+  "author": "Proxtx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proxtx/u_app_simulate/issues"
+  },
+  "homepage": "https://github.com/Proxtx/u_app_simulate#readme"
+}

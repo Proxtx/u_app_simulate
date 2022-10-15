@@ -1,0 +1,14 @@
+{
+  "methods": {
+    "notification": {
+      "name": "Simulate Key Presses",
+      "arguments": [
+        {
+          "type": "text",
+          "name": "Keys",
+          "placeholder": "Keys"
+        }
+      ]
+    }
+  }
+}
